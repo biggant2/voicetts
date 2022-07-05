@@ -10,7 +10,7 @@
   "author": "biggant2",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "@keyv/sqlite": "^2.0.2",
     "discord.js": "^12.2.0",
     "keyv": "^4.0.1",
